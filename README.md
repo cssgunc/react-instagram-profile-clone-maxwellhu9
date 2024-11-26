@@ -54,7 +54,9 @@ Once you've completed your Instagram clone, make sure to review the requirements
 **PLEASE ADD A PHOTO/VIDEO OF YOUR FINAL PROJECT HERE!:**
 
 [YOUR PHOTO/VIDEO GOES HERE]
+![Photo](image.png)
 
+[Watch the Demo] <video controls src="instagram-clone/public/Instagram.mp4" title="Title"></video>
 
 ## Resources
 Please remember that while you're working on this assignment, you can always refer to:
